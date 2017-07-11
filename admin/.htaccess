@@ -1,0 +1,21 @@
+Options +FollowSymLinks
+RewriteEngine on
+errordocument 404 /404.php
+RewriteRule ^dashboard$ dashboard.php [NC,L]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule ^user-register$ threeguser-register.php [NC,L]
+RewriteRule ^province-with-cities$ getallcities.php [NC,L]
+RewriteRule ^moblink-promos$ moblinkpromos.php [NC,L]
+RewriteRule ^add-trade-invesment$ addnewtradeinvesment.php [NC,L]
+RewriteRule ^add-outdoor-tracking$ addoutdoortracking.php [NC,L]
+RewriteRule ^add-brand-activation$ newbrandactivation.php [NC,L]
+RewriteRule ^outdoor-tracking$ outdoortracking.php [NC,L]
+RewriteRule ^trade-invesment$ tradeinvesment.php [NC,L]
+RewriteRule ^brand-activation$ brandactivation.php [NC,L]
+RewriteRule ^mob-userregister$ user_register.php [NC,L]
+RewriteRule ^user-login$ user_login.php [NC,L]

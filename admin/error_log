@@ -1,0 +1,1 @@
+[23-Nov-2015 05:17:48 CST6CDT] PHP Warning:  mysql_connect(): Access denied for user 'mobuser'@'localhost' (using password: YES) in /home/golivecom/public_html/mobilink/admin/dbconnection.php on line 8
